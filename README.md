@@ -1,10 +1,14 @@
 <h1 align="center">
-  HIAE
+  LGHAE
 </h1>
-<h4 align="center">HIAE: Hyper-Relational Interaction Aware Embedding for Link Prediction</h4>
+<h4 align="center">LGHAE: Local and Global Hyper-relation Aggregation Embedding for Link Prediction</h4>
 <h2 align="center">
-  Overview of HIAE
+  Overview of LGHAE
   <img align="center"  src="./overview.png" alt="...">
+</h2>
+<h2 align="center">
+  Overview of LGHAE
+  <img align="center"  src="./overview2.png" alt="...">
 </h2>
 
 ### Dependencies
